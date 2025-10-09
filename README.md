@@ -23,15 +23,16 @@ Here are some ideas to get you started:
 
 ## 💼 Work Experience
 - **Special Project Assistant – Westheimer Chiropractic - Jan-Dec 2024, Apr 2025**
-  - Migrated patient data systems with minimal downtime
-  - Resolved tech issues and supported EMR software deployment
+  - Migrated patient data to a new EMR system with zero data loss and minimal downtime.
+  - Developed a ledger program in PyQt6, reducing report creation time by 40%.
+  - Troubleshot integration issues between office staff and IT vendors to streamline deployment.
 - **CS Intern Teacher – FIU - Sep-Dec 2023**
-  - Taught programming using MIT's Scratch program to elementary students
-  - Designed and delivered interactive lessons
-  - Helped students one-on-one if needed
+  - Designed and delivered coding lessons using Scratch, introducing elementary students to logic and programming fundamentals.
+  - Improved engagement by tailoring lessons to student learning styles.
 - **Software Dev Intern – Zumba Fitness - Jun-Jul 2019**
-  - Debugged and enhanced 'Node Defender' recruitment game for IT departnment
-  - Assisted in cross-functional tech initiatives
+  - Debugged and improved Node Defender, a developer recruitment game.
+  - Collaborated with sales/marketing to align technical functionality with business needs.
+
 
 ## 📈 Current Projects
 - AI-based product design (MIT PRO: Superminds, Summer 2024)
